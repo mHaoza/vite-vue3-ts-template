@@ -7,7 +7,7 @@ husky + lint-staged + commitizen
 ### init project
 1. 拉取模板
   ``` shell
-    degit forminiice/vite-vue3-ts-template your-project-name
+    degit mHaoza/vite-vue3-ts-template your-project-name
   ```
 2. 初始化git
   ``` shell
